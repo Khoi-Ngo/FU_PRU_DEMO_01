@@ -38,9 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Background
     uniqueID: 3859131241
     locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: Ground
+    uniqueID: 455257447
+    locked: 0
+  - name: Player
+    uniqueID: 2912774955
+    locked: 0
+  - name: Enermy
+    uniqueID: 4091836371
     locked: 0
